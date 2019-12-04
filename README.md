@@ -21,6 +21,6 @@ Can be found at https://github.com/enhanceindustries/woocommerce-checkout-shippi
 
 ## Changelog
 
-- 1.0
+- 1.0.0
   Initial release
 

@@ -6,6 +6,7 @@
  * Has been tested on WooCommerce 3.8.1
  * Author: Enhance Industries
  * Author URI: https://www.enhanceindustries.com.au/
+ * Version: 1.0.0
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
