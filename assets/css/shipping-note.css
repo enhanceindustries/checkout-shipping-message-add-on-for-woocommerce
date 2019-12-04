@@ -1,0 +1,9 @@
+
+.woocommerce-shipping-shipping-message {
+	margin-top: 20px;
+}
+
+.woocommerce-shipping-shipping-message p {
+	font-weight: 400;
+	font-size: 13px;
+}
