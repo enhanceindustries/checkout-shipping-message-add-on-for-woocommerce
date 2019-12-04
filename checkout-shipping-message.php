@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: WooCommerce Checkout Shipping Message Add-on
+ * Plugin Name: Checkout Shipping Message Add-on for WooCommerce
  * Plugin URI: https://www.enhanceindustries.com.au/
  * Description: Add notes on Shipping section for custom text
  * Has been tested on WooCommerce 3.8.1

@@ -1,4 +1,4 @@
-## WooCommerce Checkout Shipping Message Add-on
+## Checkout Shipping Message Add-on for WooCommerce 
 
 The add-on will allow you to add a custom message to the woocommerce-shipping-totals shipping section of your checkout.
 
