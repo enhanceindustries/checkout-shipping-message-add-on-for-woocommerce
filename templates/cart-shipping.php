@@ -28,7 +28,7 @@ $calculator_text          = '';
 	<th><?php echo wp_kses_post( $package_name ); ?>
 		<?php //shipping message injection ?>
 		<div id="shipping_message" class="woocommerce-shipping-shipping-message">
-			<?php echo get_option( 'msg_threshold' ); ?>
+			<?php echo get_option( 'csm_shipping_note_msg' ); ?>
 		</div>
 		<?php //end shipping message injection ?>
 	</th>
